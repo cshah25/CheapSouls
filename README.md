@@ -1,5 +1,5 @@
 # Cheap Soul
-[Scot Lilly](https://scottlilly.com/)
+[Scott Lilly](https://scottlilly.com/)
 ## How to install
 1. Clone using Visual Studio
 2. Run the application
