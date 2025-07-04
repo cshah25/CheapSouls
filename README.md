@@ -1,5 +1,4 @@
-# Cheap Soul
-[Scott Lilly](https://scottlilly.com/)
-## How to install
+# Cheap Souls
+## How to run
 1. Clone using Visual Studio
 2. Run the application
